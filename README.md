@@ -24,7 +24,7 @@ I am navid Kazimi, I am senior at UC San Diego. My major is Computer Science. My
 * Going to beach more often
 
 
-***Favorite book ~~book ~~***
+***Favorite book ~~book~~***
 Dexterby **Jeff Lindsay**
 
 
