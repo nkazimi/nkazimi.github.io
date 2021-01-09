@@ -3,7 +3,7 @@ My name is Navid Kazimi
 
 
 About me:
-** About _me_: **
+**About _me_:**
 I am navid Kazimi, I am senior at UCSD. I transfer from Mesa College in 2018. 
 I live in San Diego. I have not chance to do any internship yet. 
 
