@@ -3,8 +3,8 @@ My name is Navid Kazimi
 
 
 **About _me_:**
-I am navid Kazimi, I am senior at UCSD. I transfer from Mesa College in 2018. 
-I live in San Diego. I have not chance to do any internship yet. 
+I am navid Kazimi, I am senior at UC San Diego. My major is Computer Science. My favorite place is Geisel Library. 
+![Geisel Library](https://c0.wallpaperflare.com/preview/157/271/645/united-states-san-diego-geisel-library.jpg)
 
 
 
