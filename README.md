@@ -16,7 +16,7 @@ I am navid Kazimi, I am senior at UC San Diego. My major is Computer Science. My
 4. Trying to learn a new language
    
 
-**Things I like to do in winter Quarter:**
+***Things I like to do in winter Quarter:***
 
 * Sleep early
 * Study harder
@@ -24,5 +24,14 @@ I am navid Kazimi, I am senior at UC San Diego. My major is Computer Science. My
 * Going to beach more often
 
 
+***Favorite book ~~book ~~***
+Dexterby **Jeff Lindsay**
+
+
+***Wishlist Movies***
+- [ ] Dexter
+- [x] Breaking bad
+- [x] Prison Break
+- [ ] Tenent 
 
 
