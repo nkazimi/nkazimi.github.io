@@ -15,7 +15,7 @@ I live in San Diego. I have not chance to do any internship yet.
 4. Trying to learn a new language
    
 
-**Things I like to do this in winter Quarter:**
+**Things I like to do in winter Quarter:**
 - [ ] Sleep early
 - [ ] Study harder
 - [ ] Stay home Stay safe.
