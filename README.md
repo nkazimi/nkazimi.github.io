@@ -9,7 +9,7 @@ I am navid Kazimi, I am senior at UC San Diego. My major is Computer Science. My
 
 
 
-**Things I like to do:**
+***Things I like to do:***
 1. Reading book
 2. Play video Game
 3. Learn to better coder
