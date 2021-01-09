@@ -1,7 +1,7 @@
 ## Welcome to Navid's Page
 
 
-**About _me_:**
+### **About _me_:**
 I am navid Kazimi, I am senior at UC San Diego. My major is Computer Science. My favorite place is Geisel Library. 
 
 
@@ -28,10 +28,13 @@ I am navid Kazimi, I am senior at UC San Diego. My major is Computer Science. My
 Dexterby **Jeff Lindsay**
 
 
-***Wishlist Movies***
+### [***Wishlist Movies***](imdb.com)
 - [ ] Dexter
 - [x] Breaking bad
 - [x] Prison Break
 - [ ] Tenent 
+
+`git clone`
+
 
 
