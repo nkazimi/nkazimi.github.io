@@ -1,5 +1,4 @@
-## Welcome to Navid Pages
-My name is Navid Kazimi
+## Welcome to Navid's Page
 
 
 **About _me_:**
