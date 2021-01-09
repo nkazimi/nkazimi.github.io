@@ -16,7 +16,15 @@ I live in San Diego. I have not chance to do any internship yet.
    
 
 **Things I like to do in winter Quarter:**
-- [ ] Sleep early
-- [ ] Study harder
-- [ ] Stay home Stay safe.
-- [ ] Going to beach more often.
+
+* Sleep early
+
+* Study harder
+
+* Stay home Stay safe
+
+* Going to beach more often
+
+
+
+
